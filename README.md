@@ -1,17 +1,19 @@
-# Hi there, I'm Mariam Sayed Mohammed 👋
+<h1 align="center">Hi there, I'm Mariam Sayed Mohammed 👋</h1>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=.NET+Developer;Full+Stack+Developer;Problem+Solver;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=.NET+Developer;Full+Stack+Developer;Problem+Solver;Always+Learning&size=24)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
-🎓 **Computer Science Student** at Fayoum University | **GPA: 3.77/4.0** | **Ranked #1** in Department  
-💻 Experienced **.NET Developer** specializing in scalable backend systems and full-stack applications  
-🏆 Built applications serving **500+ concurrent users** with **85% accuracy** in AI-powered features  
-📍 Based in **Cairo, Egypt**
+<h3>
+🎓 <b>Computer Science Student</b> at Fayoum University | <b>GPA: 3.77/4.0</b> | <b>Ranked #1</b> in Department<br>
+💻 Experienced <b>.NET Developer</b> specializing in scalable backend systems and full-stack applications<br>
+🏆 Built applications serving <b>500+ concurrent users</b> with <b>85% accuracy</b> in AI-powered features<br>
+📍 Based in <b>Cairo, Egypt</b>
+</h3>
 
 ---
 
@@ -127,7 +129,7 @@ Previous Roles:
 ## 📈 Current Focus
 
 - 🔭 Working on advanced .NET Core projects with microservices architecture
-- 🌱 Learning cloud technologies (Azure, AWS)
+- 🌱 Learning Angular and cloud technologies (Azure, AWS)
 - 👯 Looking to collaborate on open-source .NET projects
 - 💬 Ask me about: **ASP.NET Core, Web APIs, Entity Framework, System Design**
 
