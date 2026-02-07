@@ -113,12 +113,14 @@ Previous Roles:
 
 ## 🏆 Achievements
 
-- 🥇 **Ranked #1** in Computer Science Department
-- 📊 **GPA: 3.77/4.0** (94.6%)
-- 🎓 **Perfect Score** (200/200) on Graduation Project
-- 👥 Built systems serving **500+ concurrent users**
-- ⚡ Improved performance metrics by **30-60%** across projects
-- 🤖 Developed AI features with **85% accuracy**
+- 🚀 Built **scalable .NET APIs** serving **500+ concurrent users** with high performance
+- ⚡ Optimized **SQL Server databases** achieving **30% performance improvement**
+- 📉 Reduced **code duplication by 40%** using Repository and Unit of Work patterns
+- 🔐 Secured **500+ user accounts** with **JWT authentication** and RBAC
+- ⏱️ Improved **response time by 60%** implementing **Redis caching** strategies
+- 🐛 Reduced **debugging time by 35%** with centralized exception handling
+- 🎓 **Perfect Score** (200/200) on AI-powered E-Learning Platform (ASP.NET Core backend)
+- 🥇 **Ranked #1** in Computer Science Department | **GPA: 3.77/4.0**
 
 ---
 
