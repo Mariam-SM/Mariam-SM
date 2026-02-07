@@ -15,6 +15,10 @@
 📍 Based in <b>Cairo, Egypt</b>
 </h3>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mariam-SM&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -100,11 +104,8 @@
 ## 💼 Professional Experience
 
 ```yaml
-Current Role: Instructor @ ReCode Academy
-  - Teaching: CS50, Python, SQL, C++, OOP, Data Structures
-  - Focus: Web Development, Git/GitHub, Problem-Solving
-  
 Previous Roles:
+  - Instructor @ ReCode Academy (Oct 2025 - Jan 2026)
   - Front-end Developer Intern @ Elevvo Pathway
   - .NET Developer Intern @ Route Academy
   - ASP.NET Developer Intern @ ITI
@@ -137,13 +138,27 @@ Previous Roles:
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariam-sayedd)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mariam-SM)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariam.sayed.dev@gmail.com)
-
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/mariam-sayedd" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Mariam-SM" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="50" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="/cdn-cgi/l/email-protection#2944485b404844075a48504c4d074d4c5f694e44484045074a4644" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/share/1FkhTfnRSo/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/mariam_._sayed?igsh=ZWY2ajExZ2RmMXc3" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
+</a>
+</p>
 
 ---
 
@@ -151,10 +166,8 @@ Previous Roles:
   
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mariam-SM&color=blueviolet&style=flat-square)
-
 </div>
 
 ---
 
-⭐️ From [Mariam-SM](https://github.com/Mariam-SM)
+⭐�
