@@ -49,6 +49,61 @@
 
 ---
 
+## 💼 Technical Skills & Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Core Competencies
+```yaml
+Architecture & Design:
+  ✓ Onion Architecture
+  ✓ 3-Tier Architecture
+  ✓ Repository Pattern
+  ✓ Unit of Work Pattern
+  ✓ SOLID Principles
+  
+Performance Optimization:
+  ✓ Redis Caching (60% faster response)
+  ✓ Database Optimization (30% improvement)
+  ✓ Code Refactoring (40% less duplication)
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Real-World Impact
+```yaml
+Scale & Performance:
+  ✓ 500+ concurrent users handled
+  ✓ 85% AI accuracy achieved
+  ✓ 50% reduction in manual tasks
+  
+Security & Authentication:
+  ✓ JWT-based authentication
+  ✓ Role-Based Access Control
+  ✓ OAuth integration (Google, Facebook)
+  ✓ 500+ secured user accounts
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Certifications & Training
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Route_Academy-.NET_Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ITI-ASP.NET_Developer-239120?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEPI-Full_Stack_Developer-2E9EF7?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/CS50-Computer_Science-A31F34?style=for-the-badge&logo=harvard&logoColor=white" />
+</p>
+
+---
+
 ## 🎯 Featured Projects
 
 ### 🛒 [Order Management System](https://github.com/Mariam-SM/Order_Management_System)
@@ -133,7 +188,7 @@ Previous Roles:
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="50" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="/cdn-cgi/l/email-protection#2944485b404844075a48504c4d074d4c5f694e44484045074a4644" target="_blank">
+<a href="mailto:mariam.sayed.dev@gmail.com" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;
