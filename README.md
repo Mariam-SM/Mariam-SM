@@ -64,63 +64,43 @@
 
 ### 🔹 Backend
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="50" height="50"/><br/><sub><b>C#</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"/><br/><sub><b>.NET</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/><br/><sub><b>C++</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br/><sub><b>Python</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=r" width="50" height="50"/><br/><sub><b>R</b></sub></a>&nbsp;&nbsp;
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hangfire-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AutoMapper-BE0000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Identity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="50" height="50"/>></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=r" width="50" height="50"/></a>&nbsp;&nbsp;
 </p>
 
 ---
 
 ### 🔹 Databases
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=redis" width="50" height="50"/><br/><sub><b>Redis</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/><br/><sub><b>SQL Server</b></sub></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=redis" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/></a>&nbsp;&nbsp;
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dapper-CC2927?style=flat-square&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-</p>
+
 
 ---
 
 ### 🔹 Frontend
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="50" height="50"/><br/><sub><b>HTML5</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><br/><sub><b>CSS3</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/><br/><sub><b>JavaScript</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/><br/><sub><b>Bootstrap</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=flutter" width="50" height="50"/><br/><sub><b>Flutter</b></sub></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/></a>&nbsp;&nbsp;
 </p>
 
 ---
 
 ### 🔹 Tools & DevOps
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><br/><sub><b>Git</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="50" height="50"/><br/><sub><b>GitHub</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50"/><br/><sub><b>CI/CD</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/><br/><sub><b>Postman</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/><br/><sub><b>VS Code</b></sub></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50"/><br/><sub><b>Visual Studio</b></sub></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50"/></a>&nbsp;&nbsp;
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Serilog-CC2927?style=flat-square&logo=microsoft&logoColor=white"/>
-</p>
-
-
 
 
 ## 💼 Core Expertise
