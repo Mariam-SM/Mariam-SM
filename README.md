@@ -63,42 +63,27 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### 🔹 Backend
 <p align="left">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Hangfire-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet" height="60"/>
 </p>
 
 ### 🔹 Databases
 <p align="left">
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Dapper-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="35"/>
+<img src="https://skillicons.dev/icons?i=redis" height="60"/>
 </p>
 
 ### 🔹 Frontend
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="35"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="60"/>
 </p>
 
 ### 🔹 Tools & DevOps
 <p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="35"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="35"/>
-<img src="https://img.shields.io/badge/Serilog-CC2927?style=for-the-badge&logo=microsoft&logoColor=white" height="35"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode" height="60"/>
 </p>
-
 ---
 
 ## 💼 Core Expertise
