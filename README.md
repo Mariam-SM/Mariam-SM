@@ -2,9 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=.NET+Developer;Backend+Developer;Problem+Solver;Always+Learning&size=24)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=.NET+Developer;Backend+Developer;Problem+Solver;Always+Learning&size=30)](https://git.io/typing-svg)
 
 </div>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mariam-SM&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
@@ -21,23 +25,23 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/mariam-sayedd" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="55" width="55" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Mariam-SM" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="55" width="55" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:mariam.sayed.dev@gmail.com" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="55" width="55" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/share/1FkhTfnRSo/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="55" width="55" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/mariam_._sayed?igsh=ZWY2ajExZ2RmMXc3" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="55" width="55" />
 </a>
 </p>
 
@@ -47,11 +51,11 @@
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1eSSkvAF7OLF935zZfJJN9d55fvCApUCD?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20My%20CV-28a745?style=for-the-badge" alt="My CV" />
+    <img src="https://img.shields.io/badge/🔗%20My%20CV-28a745?style=for-the-badge&logoColor=white" alt="My CV" height="40" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://mariam-sm.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20My%20Portfolio-3a7bd5?style=for-the-badge" alt="My Portfolio" />
+    <img src="https://img.shields.io/badge/🔗%20My%20Portfolio-3a7bd5?style=for-the-badge&logoColor=white" alt="My Portfolio" height="40" />
   </a>
 </p>
 
@@ -59,30 +63,41 @@
 
 ## 🛠️ Tech Stack
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### 🔹 Backend
+<p align="left">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Hangfire-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35"/>
+</p>
 
-### Databases
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🔹 Databases
+<p align="left">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Dapper-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="35"/>
+</p>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🔹 Frontend
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="35"/>
+</p>
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+### 🔹 Tools & DevOps
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="35"/>
+<img src="https://img.shields.io/badge/Serilog-CC2927?style=for-the-badge&logo=microsoft&logoColor=white" height="35"/>
+</p>
 
 ---
 
@@ -123,7 +138,7 @@
 
 | Metric | Result |
 |--------|--------|
-| 🥇 Academic Rank | **#1 in CS Department — GPA 3.77/4.0** |
+| 🥇 Academic Rank | **#1 in Bioinformatics - CS Department — GPA 3.77/4.0** |
 | 🎓 Graduation Project | **200/200 — AI-powered E-Learning Platform** |
 | 👥 System Scale | **500+ concurrent users handled** |
 | ⚡ Response Time | **60% improvement via Redis caching** |
@@ -137,21 +152,32 @@
 ## 🎓 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Route_Academy-.NET_Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ITI-ASP.NET_Developer-239120?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEPI-Full_Stack_Developer-2E9EF7?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/CS50-Computer_Science-A31F34?style=for-the-badge&logo=harvard&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1KilfjaNqM4UDYIx-lJaoaviIILnfQziF/view" target="_blank">
+    <img src="https://img.shields.io/badge/Route_Academy-.NET_Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="32"/>
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1Q8S_1kPHwDZnPQSklUbMt6z3MV97PTgk/view" target="_blank">
+    <img src="https://img.shields.io/badge/ITI-ASP.NET_Developer-239120?style=for-the-badge&logo=microsoft&logoColor=white" height="32"/>
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1ganxf8mxk_O2K6DRSDV7EjENR5_Jop0V/view" target="_blank">
+    <img src="https://img.shields.io/badge/DEPI-Full_Stack_Developer-2E9EF7?style=for-the-badge&logo=code&logoColor=white" height="32"/>
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1D5TNgX--VX7K-RdW9I3Dt1Qaw8qLq8Hg/view" target="_blank">
+    <img src="https://img.shields.io/badge/DEPI-Business_English-2E9EF7?style=for-the-badge&logo=code&logoColor=white" height="32"/>
+  </a>
 </p>
 
 ---
 
 ## 💼 Experience
 ```yaml
-Instructor        @ ReCode Academy     Oct 2025 – Jan 2026
+Instructor        @ ReCode Academy     Oct 2025 – Feb 2026
+.NET Intern       @ Route Academy      Oct 2024 – May 2025
+ASP.NET Intern    @ ITI                Jan 2025 – Feb 2025
+Full Stack Intern @ DEPI               Apr 2024 – Oct 2024
 Front-End Intern  @ Elevvo Pathway
-.NET Intern       @ Route Academy
-ASP.NET Intern    @ ITI
-Full Stack Intern @ DEPI
 ```
 
 ---
@@ -161,7 +187,3 @@ Full Stack Intern @ DEPI
 - 🔭 Exploring **microservices** with .NET Core
 - 🌱 Learning **Angular** and cloud platforms (**Azure / AWS**)
 - 💬 Ask me about: **ASP.NET Core · Web APIs · Entity Framework · System Design**
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Mariam-SM&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
