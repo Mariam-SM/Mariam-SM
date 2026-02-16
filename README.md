@@ -85,9 +85,9 @@
 
 ## 💼 Core Expertise
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### 🎯 Architecture & Design
 ```yaml
@@ -99,7 +99,7 @@
 ```
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### ⚡ Performance & Security
 ```yaml
@@ -113,7 +113,6 @@
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🏆 Key Achievements
@@ -133,39 +132,39 @@
 
 ## 🎓 Certifications
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="200">
+    <td align="center">
       <a href="https://drive.google.com/file/d/1KilfjaNqM4UDYIx-lJaoaviIILnfQziF/view" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/4436/4436481.png" width="80" height="80" alt="Route Academy"/>
-        <br/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="Route Academy"/>
+        <br/><br/>
         <b>Route Academy</b>
         <br/>
         <sub>.NET Developer</sub>
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center">
       <a href="https://drive.google.com/file/d/1Q8S_1kPHwDZnPQSklUbMt6z3MV97PTgk/view" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/4436/4436481.png" width="80" height="80" alt="ITI"/>
-        <br/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="ITI"/>
+        <br/><br/>
         <b>ITI</b>
         <br/>
         <sub>ASP.NET Developer</sub>
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center">
       <a href="https://drive.google.com/file/d/1ganxf8mxk_O2K6DRSDV7EjENR5_Jop0V/view" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/4436/4436481.png" width="80" height="80" alt="DEPI"/>
-        <br/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="DEPI"/>
+        <br/><br/>
         <b>DEPI</b>
         <br/>
         <sub>Full Stack Developer</sub>
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center">
       <a href="https://drive.google.com/file/d/1D5TNgX--VX7K-RdW9I3Dt1Qaw8qLq8Hg/view" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/4436/4436481.png" width="80" height="80" alt="Business English"/>
-        <br/>
+        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="Business English"/>
+        <br/><br/>
         <b>DEPI</b>
         <br/>
         <sub>Business English</sub>
