@@ -60,9 +60,6 @@
 </p>
 
 ---
-
-## 🛠️ Tech Stack
-
 ## 🛠️ Tech Stack
 
 ### 🔹 Backend
@@ -84,7 +81,7 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode" height="60"/>
 </p>
----
+
 
 ## 💼 Core Expertise
 
@@ -136,25 +133,46 @@
 
 ## 🎓 Certifications
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1KilfjaNqM4UDYIx-lJaoaviIILnfQziF/view" target="_blank">
-    <img src="https://img.shields.io/badge/Route_Academy-.NET_Developer-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="32"/>
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1Q8S_1kPHwDZnPQSklUbMt6z3MV97PTgk/view" target="_blank">
-    <img src="https://img.shields.io/badge/ITI-ASP.NET_Developer-239120?style=for-the-badge&logo=microsoft&logoColor=white" height="32"/>
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1ganxf8mxk_O2K6DRSDV7EjENR5_Jop0V/view" target="_blank">
-    <img src="https://img.shields.io/badge/DEPI-Full_Stack_Developer-2E9EF7?style=for-the-badge&logo=code&logoColor=white" height="32"/>
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1D5TNgX--VX7K-RdW9I3Dt1Qaw8qLq8Hg/view" target="_blank">
-    <img src="https://img.shields.io/badge/DEPI-Business_English-2E9EF7?style=for-the-badge&logo=code&logoColor=white" height="32"/>
-  </a>
-</p>
-
----
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://drive.google.com/file/d/1KilfjaNqM4UDYIx-lJaoaviIILnfQziF/view" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/4436/4436481.png" width="80" height="80" alt="Route Academy"/>
+        <br/>
+        <b>Route Academy</b>
+        <br/>
+        <sub>.NET Developer</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://drive.google.com/file/d/1Q8S_1kPHwDZnPQSklUbMt6z3MV97PTgk/view" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/4436/4436481.png" width="80" height="80" alt="ITI"/>
+        <br/>
+        <b>ITI</b>
+        <br/>
+        <sub>ASP.NET Developer</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://drive.google.com/file/d/1ganxf8mxk_O2K6DRSDV7EjENR5_Jop0V/view" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/4436/4436481.png" width="80" height="80" alt="DEPI"/>
+        <br/>
+        <b>DEPI</b>
+        <br/>
+        <sub>Full Stack Developer</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://drive.google.com/file/d/1D5TNgX--VX7K-RdW9I3Dt1Qaw8qLq8Hg/view" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/4436/4436481.png" width="80" height="80" alt="Business English"/>
+        <br/>
+        <b>DEPI</b>
+        <br/>
+        <sub>Business English</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 💼 Experience
 ```yaml
