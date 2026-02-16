@@ -64,7 +64,7 @@
 
 ### 🔹 Backend
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="50" height="50"/>></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/></a>&nbsp;&nbsp;
