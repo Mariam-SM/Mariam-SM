@@ -24,28 +24,33 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/mariam-sayedd" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="55" width="55" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Mariam-SM" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="55" width="55" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:mariam.sayed.dev@gmail.com" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="55" width="55" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/share/1FkhTfnRSo/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="55" width="55" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/mariam_._sayed?igsh=ZWY2ajExZ2RmMXc3" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="55" width="55" />
-</a>
-<a href="https://t.me/MariamSayeed" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="55" width="55" />
-</a>
+  <span style="display: inline-flex; gap: 25px; align-items: center;">
+
+    <a href="https://linkedin.com/in/mariam-sayedd" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
+    </a>
+
+    <a href="https://github.com/Mariam-SM" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="50" width="50" />
+    </a>
+
+    <a href="mailto:mariam.sayed.dev@gmail.com" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50" width="50" />
+    </a>
+
+    <a href="https://www.facebook.com/share/1FkhTfnRSo/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
+    </a>
+
+    <a href="https://www.instagram.com/mariam_._sayed?igsh=ZWY2ajExZ2RmMXc3" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
+    </a>
+
+    <a href="https://t.me/MariamSayeed" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="50" width="50" />
+    </a>
+
+  </span>
 </p>
 
 <p align="center">
