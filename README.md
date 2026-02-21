@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Mariam Sayed Mohammed 👋</h1>
 
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=.NET+Developer;Backend+Developer;Problem+Solver;Always+Learning&size=30)](https://git.io/typing-svg)
-
 </div>
 
 <p align="center">
@@ -24,33 +22,29 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <span style="display: inline-flex; gap: 25px; align-items: center;">
-
-    <a href="https://linkedin.com/in/mariam-sayedd" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
-    </a>
-
-    <a href="https://github.com/Mariam-SM" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="50" width="50" />
-    </a>
-
-    <a href="mailto:mariam.sayed.dev@gmail.com" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="50" width="50" />
-    </a>
-
-    <a href="https://www.facebook.com/share/1FkhTfnRSo/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
-    </a>
-
-    <a href="https://www.instagram.com/mariam_._sayed?igsh=ZWY2ajExZ2RmMXc3" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
-    </a>
-
-    <a href="https://t.me/MariamSayeed" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="50" width="50" />
-    </a>
-
-  </span>
+<a href="https://linkedin.com/in/mariam-sayedd" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="55" width="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Mariam-SM" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="55" width="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:mariam.sayed.dev@gmail.com" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="55" width="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/share/1FkhTfnRSo/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="55" width="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/mariam_._sayed?igsh=ZWY2ajExZ2RmMXc3" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="55" width="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/MariamSayeed" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="55" width="55" />
+</a>
 </p>
 
 <p align="center">
@@ -68,6 +62,7 @@
 </p>
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 🔹 Backend
@@ -86,7 +81,6 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=redis" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/></a>&nbsp;&nbsp;
 </p>
-
 
 ---
 
@@ -110,7 +104,6 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50"/></a>&nbsp;&nbsp;
 </p>
 
-
 ## 💼 Core Expertise
 
 <table width="100%">
@@ -124,96 +117,3 @@
   ✓ CQRS & SOLID Principles
   ✓ RESTful API Design
   ✓ Design Patterns
-```
-
-</td>
-<td valign="top">
-
-### ⚡ Performance & Security
-```yaml
-  ✓ Redis Caching — 60% faster response
-  ✓ SQL Server Optimization — 30% gain
-  ✓ JWT + Role-Based Access Control
-  ✓ OAuth (Google, Facebook)
-  ✓ CI/CD with GitHub Actions
-```
-
-</td>
-</tr>
-</table>
----
-
-## 🏆 Key Achievements
-
-| Metric | Result |
-|--------|--------|
-| 🥇 Academic Rank | **#1 in Bioinformatics - CS Department — GPA 3.77/4.0** |
-| 🎓 Graduation Project | **200/200 — AI-powered E-Learning Platform** |
-| 👥 System Scale | **500+ concurrent users handled** |
-| ⚡ Response Time | **60% improvement via Redis caching** |
-| 🗄️ DB Performance | **30% improvement via SQL optimization** |
-| 📉 Code Quality | **40% reduction in duplication** |
-| 🔐 Security | **500+ user accounts secured with JWT/RBAC** |
-| 🐛 Debugging | **35% faster — centralized exception handling** |
-
----
-
-## 🎓 Certifications
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://drive.google.com/file/d/1KilfjaNqM4UDYIx-lJaoaviIILnfQziF/view" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="Route Academy"/>
-        <br/><br/>
-        <b>Route Academy</b>
-        <br/>
-        <sub>.NET Developer</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://drive.google.com/file/d/1Q8S_1kPHwDZnPQSklUbMt6z3MV97PTgk/view" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="ITI"/>
-        <br/><br/>
-        <b>ITI</b>
-        <br/>
-        <sub>ASP.NET Developer</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://drive.google.com/file/d/1ganxf8mxk_O2K6DRSDV7EjENR5_Jop0V/view" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="DEPI"/>
-        <br/><br/>
-        <b>DEPI</b>
-        <br/>
-        <sub>Full Stack Developer</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://drive.google.com/file/d/1D5TNgX--VX7K-RdW9I3Dt1Qaw8qLq8Hg/view" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="Business English"/>
-        <br/><br/>
-        <b>DEPI</b>
-        <br/>
-        <sub>Business English</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 💼 Experience
-```yaml
-Instructor        @ ReCode Academy     Oct 2025 – Feb 2026
-.NET Intern       @ Route Academy      Oct 2024 – May 2025
-ASP.NET Intern    @ ITI                Jan 2025 – Feb 2025
-Full Stack Intern @ DEPI               Apr 2024 – Oct 2024
-Front-End Intern  @ Elevvo Pathway
-```
-
----
-
-## 📈 Currently
-
-- 🔭 Exploring **microservices** with .NET Core
-- 🌱 Learning **Angular** and cloud platforms (**Azure / AWS**)
-- 💬 Ask me about: **ASP.NET Core · Web APIs · Entity Framework · System Design**
