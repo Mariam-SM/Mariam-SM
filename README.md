@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Mariam Sayed Mohammed 👋</h1>
 
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=.NET+Developer;Backend+Developer;Problem+Solver;Always+Learning&size=30)](https://git.io/typing-svg)
+
 </div>
 
 <p align="center">
@@ -40,8 +42,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/mariam_._sayed?igsh=ZWY2ajExZ2RmMXc3" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="55" width="55" />
-</a>
-&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/MariamSayeed" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="55" width="55" />
 </a>
