@@ -215,6 +215,9 @@ Front-End Intern  @ Elevvo Pathway
 
 ## 📈 Currently
 
-* 🔭 Exploring **microservices** with .NET Core
-* 🌱 Learning **Angular** and cloud platforms (**Azure / AWS**)
+* 🔹 Exploring **CQRS & MediatR**
+* 🔹 Implementing **Serilog Logging**
+* 🔹 Building **ASP.NET Core Web APIs**S
+* 🔹 Practicing **Clean Architecture & DDD**
+* 🔹 Learning **System Design concepts**
 * 💬 Ask me about: **ASP.NET Core · Web APIs · Entity Framework · System Design**
