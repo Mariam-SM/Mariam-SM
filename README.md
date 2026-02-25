@@ -203,7 +203,7 @@
         <br/><br/>
         <b>Elevvo</b>
         <br/>
-        <sub>Elevvo Pathways</sub>
+        <sub>Front-end Intern at Elevvo Pathways</sub>
       </a>
     </td>
   </tr>
