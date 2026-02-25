@@ -5,6 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=.NET+Developer;Backend+Developer;Problem+Solver;Always+Learning&size=30)](https://git.io/typing-svg)
 
 </div>
+<p align="center">
+    <a href="https://drive.google.com/drive/folders/1eSSkvAF7OLF935zZfJJN9d55fvCApUCD?usp=drive_link">
+      <img src="https://img.shields.io/badge/🔗 My CV-007520?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://mariam-sm.github.io/portfolio/">
+      <img src="https://img.shields.io/badge/🔗 My Portfolio-003580?style=flat" style="height:35px; object-fit:contain;"/></a>
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Mariam-SM&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
@@ -58,15 +64,6 @@
 📫 How to reach me &nbsp;<a href="mailto:mariam.sayed.dev@gmail.com"><b>mariam.sayed.dev@gmail.com</b></a>
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1eSSkvAF7OLF935zZfJJN9d55fvCApUCD?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20My%20CV-28a745?style=for-the-badge&logoColor=white" alt="My CV" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://mariam-sm.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20My%20Portfolio-3a7bd5?style=for-the-badge&logoColor=white" alt="My Portfolio" height="40" />
-  </a>
-</p>
 
 ---
 ## 🛠️ Tech Stack
