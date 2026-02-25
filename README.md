@@ -197,16 +197,26 @@
         <sub>Business English</sub>
       </a>
     </td>
+      <td align="center">
+      <a href="https://drive.google.com/file/d/1LQv3ejIpbBXvtpFtf8T---zll02PgKSd/view?usp=drive_link" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="Elevvo Pathways"/>
+        <br/><br/>
+        <b>Elevvo</b>
+        <br/>
+        <sub>Elevvo Pathways</sub>
+      </a>
+    </td>
   </tr>
 </table>
 
 ## 💼 Experience
 ```yaml
 Instructor        @ ReCode Academy     Oct 2025 – Feb 2026
+Front-End Intern  @ Elevvo Pathway     Jul 2025 - Aug 2025
 .NET Intern       @ Route Academy      Oct 2024 – May 2025
 ASP.NET Intern    @ ITI                Jan 2025 – Feb 2025
 Full Stack Intern @ DEPI               Apr 2024 – Oct 2024
-Front-End Intern  @ Elevvo Pathway
+
 ```
 
 ---
