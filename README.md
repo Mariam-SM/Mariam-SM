@@ -71,43 +71,33 @@
 ## 🛠️ Tech Stack
 
 ### 🔹 Backend
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=r" width="50" height="50"/></a>&nbsp;&nbsp;
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python,r" />
 </p>
 
 ---
 
 ### 🔹 Databases
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=redis" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/></a>&nbsp;&nbsp;
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redis,mysql,postgres" />
 </p>
 
 ---
 
 ### 🔹 Frontend
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=angular" width="50" height="50"/></a>&nbsp;&nbsp;
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" />
 </p>
 
 ---
 
 ### 🔹 Tools & DevOps
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50"/></a>&nbsp;&nbsp;
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,docker" />
 </p>
 
 ---
@@ -135,7 +125,7 @@
 ```yaml
   ✓ Redis Caching — 60% faster response
   ✓ SQL Server Optimization — 30% gain
-  ✓ JWT + Role-Based Access Control
+  ✓ JWT + Claims-Based Access Control
   ✓ OAuth (Google, Facebook)
   ✓ Global Exception Handling
   ✓ Serilog Logging
@@ -166,13 +156,29 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🐾 [**PetCore**](https://github.com/Mariam-SM/PetCore) ⚡ | Full pet care ecosystem — vet directory, appointment booking, product marketplace, chatbot | ASP.NET Core, Clean Arch, EF Core, JWT, Redis, CQRS |
-| 🏪 [**Store Manager System**](https://github.com/Mariam-SM/StoreManager.Solution) ⚡ | Product & store management with CQRS, Soft Delete, Audit History | ASP.NET Core, Clean Arch, EF Core, JWT, CQRS |
+| 🏪 [**Store Manager System**](https://github.com/Mariam-SM/StoreManager.Solution) ⚡ | Product & store management with CQRS, JWT auth, Claims-based authorization, Audit History, Statistics Dashboard | ASP.NET Core, Clean Arch, EF Core, JWT, CQRS, MediatR, FluentValidation |
 | 📦 [**Order Management System**](https://github.com/Mariam-SM/Order_Management_System) | 25+ REST endpoints — basket, orders, invoices, Stripe payments | ASP.NET Core, EF Core, JWT, Stripe, Redis |
 | 🛒 [**E-Commerce Backend API**](https://github.com/Mariam-SM/E-Commerce) | Generic Repo & Unit of Work, Redis caching (60% faster), Specification Pattern | ASP.NET Core, EF Core, JWT, Stripe, Redis |
 | 🏢 [**Company Management System**](https://github.com/Mariam-SM/CompanyManagement) | Multi-auth (Google, Facebook), SMS recovery, 3-Tier Architecture | MVC, EF Core, OAuth, SMTP, Twilio |
 | 🎓 [**EduVerse – AI E-Learning**](https://github.com/Mariam-SM/EduVerse) | Graduation project 200/200 — GPT-4.1, 500+ users, 85% code similarity detection | ASP.NET Core, Flutter, GPT-4.1, SQL Server |
 
 > ⚡ = In Progress
+
+---
+
+## 🗺️ Store Manager — Progress
+
+```
+Task 01 ✅  Project Setup & Clean Architecture
+Task 02 ✅  Domain Entities & Base Classes
+Task 03 ✅  EF Core & Database Configuration
+Task 04 ✅  Product Management (CRUD + Pagination)
+Task 05 ✅  Soft Delete & Audit History
+Task 06 ✅  Roles, Claims & User Seeding
+Task 07 ✅  JWT Login & Authorization Header
+Task 08 ✅  Claims-Based Authorization & Policies
+Task 09 🔄  Statistics Dashboard (In Progress)
+```
 
 ---
 
@@ -245,7 +251,7 @@ Full Stack Intern  @ DEPI              Apr 2024 – Oct 2024
 
 ## 📈 Currently
 
-* 🔹 Building **PetCore** — full pet care ecosystem API
+* 🔹 Building **StoreManager** — Statistics Dashboard (Task 09) with CQRS + aggregation queries
 * 🔹 Working on **Full Stack app** with Angular + ASP.NET Core @ DBS MENA
 * 🔹 Implementing **CQRS & MediatR** patterns
 * 🔹 Practicing **Clean Architecture & DDD**
