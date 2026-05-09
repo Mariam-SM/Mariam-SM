@@ -32,13 +32,21 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
-<a href="https://linkedin.com/in/mariam-sayedd" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="55" width="55" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Mariam-SM" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="55" width="55" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:mariam.sayed.dev@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="55" width="55" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/share/1FkhTfnRSo/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="55" width="55" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/mariam_._sayed?igsh=ZWY2ajExZ2RmMXc3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="55" width="55" /></a>&nbsp;&nbsp;&nbsp;<a href="https://wa.me/201007456707" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="55" width="55" /></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/MariamSayeed" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="55" width="55" /></a>
-</p>
+<div align="center">
+<table><tr>
+<td><a href="https://linkedin.com/in/mariam-sayedd" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="55" width="55" /></a></td>
+<td><a href="https://github.com/Mariam-SM" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="55" width="55" /></a></td>
+<td><a href="mailto:mariam.sayed.dev@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="55" width="55" /></a></td>
+<td><a href="https://www.facebook.com/share/1FkhTfnRSo/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="55" width="55" /></a></td>
+<td><a href="https://www.instagram.com/mariam_._sayed?igsh=ZWY2ajExZ2RmMXc3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="55" width="55" /></a></td>
+<td><a href="https://wa.me/201007456707" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="55" width="55" /></a></td>
+<td><a href="https://t.me/MariamSayeed" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" height="55" width="55" /></a></td>
+</tr></table>
+</div>
+
 <p align="center">
 📫 How to reach me &nbsp;<a href="mailto:mariam.sayed.dev@gmail.com"><b>mariam.sayed.dev@gmail.com</b></a>
 </p>
-
 ---
 
 ## 🛠️ Tech Stack
