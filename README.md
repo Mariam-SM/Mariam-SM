@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Mariam Sayed Mohammed 👋</h1>
-<h3 align="center">A .NET Developer passionate about building scalable web applications.</h3>
+<h3 align="center">Full Stack (.NET + Angular) Developer passionate about building scalable web applications.</h3>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=.NET+Developer;Backend+Developer;Problem+Solver;Always+Learning&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=.NET+Developer;Full+Stack+Developer;Backend+Developer;Problem+Solver;Always+Learning&size=30)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,10 +23,10 @@
 ## 🚀 About Me
 
 🎓 **Computer Science Graduate** at Fayoum University | **GPA: 3.77/4.0** | **Ranked #1** in Department  
-💻 **.NET Developer** specializing in scalable backend systems and full-stack applications  
+💻 **Full Stack Developer** specializing in ASP.NET Core & Angular — scalable RESTful APIs and responsive SPAs  
 🏆 Built systems serving **500+ concurrent users** with **85% accuracy** in AI-powered features  
 💼 Currently interning as **Full Stack Developer @ DBS MENA**  
-📍 Based in **Nasr City, Cairo, Egypt**
+📍 Based in **New Cairo, Egypt**
 
 ---
 
@@ -48,21 +48,22 @@
 📫 How to reach me &nbsp;<a href="mailto:mariam.sayed.dev@gmail.com"><b>mariam.sayed.dev@gmail.com</b></a>
 </p>
 
+---
 
 ## 🛠️ Tech Stack
 
 ### 🔹 Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python,r" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,python" />
 </p>
 
 ---
 
-### 🔹 Databases
+### 🔹 Databases & Caching
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redis,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,redis,mysql" />
 </p>
 
 ---
@@ -70,7 +71,7 @@
 ### 🔹 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,bootstrap" />
 </p>
 
 ---
@@ -92,11 +93,12 @@
 ### 🎯 Architecture & Design
 ```yaml
   ✓ Clean / Onion / Layered / 3-Tier Architecture
-  ✓ Repository & Unit of Work Patterns
   ✓ CQRS & MediatR
+  ✓ Repository & Unit of Work Patterns
+  ✓ Specification Pattern
   ✓ SOLID Principles & Design Patterns
   ✓ RESTful API Design
-  ✓ Specification Pattern
+  ✓ Feature-Based Angular Architecture
 ```
 
 </td>
@@ -107,9 +109,38 @@
   ✓ Redis Caching — 60% faster response
   ✓ SQL Server Optimization — 30% gain
   ✓ JWT + Claims-Based Access Control
+  ✓ ASP.NET Identity & Role Seeding
   ✓ OAuth (Google, Facebook)
   ✓ Global Exception Handling
   ✓ Serilog Logging
+  ✓ Hangfire Background Jobs
+  ✓ SignalR Real-Time Communication
+```
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🔧 Backend Libraries & Tools
+```yaml
+  ✓ AutoMapper
+  ✓ FluentValidation
+  ✓ Dapper
+  ✓ Entity Framework Core
+  ✓ LINQ
+```
+
+</td>
+<td valign="top">
+
+### 🧠 Core CS Concepts
+```yaml
+  ✓ Data Structures & Algorithms
+  ✓ Problem Solving
+  ✓ OOP Principles
+  ✓ System Design (Learning)
+  ✓ Domain-Driven Design (Learning)
 ```
 
 </td>
@@ -122,13 +153,14 @@
 
 | Metric | Result |
 |--------|--------|
-| 🥇 Academic Rank | **#1 in Bioinformatics - CS Department — GPA 3.77/4.0** |
+| 🥇 Academic Rank | **#1 in CS Department — GPA 3.77/4.0 (94.6%)** |
 | 🎓 Graduation Project | **200/200 — Full Mark** |
 | 👥 System Scale | **500+ concurrent users handled** |
 | ⚡ Response Time | **60% improvement via Redis caching** |
 | 🗄️ DB Performance | **30% improvement via SQL optimization** |
 | 🔐 Security | **500+ user accounts secured with JWT/RBAC** |
 | 🐛 Debugging | **35% faster — centralized exception handling** |
+| 👩‍🏫 Mentoring | **20+ students mentored @ ReCode Academy** |
 
 ---
 
@@ -136,21 +168,14 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏪 [**Store Manager System**](https://github.com/Mariam-SM/StoreManager.Solution) ⚡ | Full Stack Product & store management System (.Net + Angular) with ASP.NET Core 10, EF Core, SQL Server, JWT, ASP.NET Identity, CQRS, MediatR, FluentValidation, AutoMapper, Angular21 , TypeScript,
-Tailwind CSS, Clean Architecture|
-| 🐾 [**PetCore**](https://github.com/Mariam-SM/PetCore) ⚡ | Full pet care ecosystem — vet directory, appointment booking, product marketplace, chatbot | ASP.NET Core, Clean Arch, EF Core, JWT, Redis, CQRS |
+| 🏪 [**Store Manager System**](https://github.com/Mariam-SM/StoreManager.Solution) ⚡ | Full-stack production-grade system: ASP.NET Core 10 REST API with Clean Architecture, CQRS, MediatR, FluentValidation + Angular 21 SPA with signals and feature-based architecture. JWT auth with claims-based authorization, soft delete, audit history, and product status history tracking. | ASP.NET Core 10, EF Core, SQL Server, JWT, Identity, CQRS, MediatR, FluentValidation, AutoMapper, Angular 21, TypeScript, Tailwind CSS |
+| 🐾 [**PetCore**](https://github.com/Mariam-SM/PetCore) ⚡ | RESTful API ecosystem for pet care — vet directory with specialization-based search, appointment booking, product marketplace with hierarchical category filtering, soft delete, JWT auth with Owner/Vet roles | ASP.NET Core, Clean Arch, EF Core, JWT, Identity, Redis, CQRS |
 | 📦 [**Order Management System**](https://github.com/Mariam-SM/Order_Management_System) | 25+ REST endpoints — basket, orders, invoices, Stripe payments | ASP.NET Core, EF Core, JWT, Stripe, Redis |
-| 🛒 [**E-Commerce Backend API**](https://github.com/Mariam-SM/E-Commerce) | Generic Repo & Unit of Work, Redis caching (60% faster), Specification Pattern | ASP.NET Core, EF Core, JWT, Stripe, Redis |
-| 🏢 [**Company Management System**](https://github.com/Mariam-SM/CompanyManagement) | Multi-auth (Google, Facebook), SMS recovery, 3-Tier Architecture | MVC, EF Core, OAuth, SMTP, Twilio |
+| 🛒 [**E-Commerce Backend API**](https://github.com/Mariam-SM/E-Commerce) | Generic Repo & Unit of Work, Redis caching (60% faster), Specification Pattern, custom middleware, global exception handling | ASP.NET Core, EF Core, JWT, Stripe, Redis |
+| 🏢 [**Company Management System**](https://github.com/Mariam-SM/CompanyManagement) | Multi-auth (Google, Facebook), SMS recovery, AutoMapper, 3-Tier Architecture | MVC, EF Core, LINQ, Identity, OAuth, SMTP, Twilio |
 | 🎓 [**EduVerse – AI E-Learning**](https://github.com/Mariam-SM/EduVerse) | Graduation project 200/200 — GPT-4.1, 500+ users, 85% code similarity detection | ASP.NET Core, Flutter, GPT-4.1, SQL Server |
 
 > ⚡ = In Progress
-
----
-
-## 🗺️ PetCore Platform - Progress
-
-
 
 ---
 
@@ -211,21 +236,21 @@ Tailwind CSS, Clean Architecture|
 ## 💼 Experience
 
 ```yaml
-Full Stack Intern  @ DBS MENA          Apr 2026 – Present
-Instructor         @ ReCode Academy    Oct 2025 – Feb 2026
-Front-End Intern   @ Elevvo Pathway    Jul 2025 – Aug 2025
-.NET Intern        @ Route Academy     Oct 2024 – May 2025
-ASP.NET Intern     @ ITI               Jan 2025 – Feb 2025
-Full Stack Intern  @ DEPI              Apr 2024 – Oct 2024
+Full Stack Intern   @ DBS MENA          Apr 2026 – Present
+CS50 Instructor     @ ReCode Academy    Oct 2025 – Feb 2026
+Front-End Intern    @ Elevvo Pathway    Jul 2025 – Aug 2025
+.NET Intern         @ Route Academy     Oct 2024 – May 2025
+ASP.NET Intern      @ ITI               Jan 2025 – Feb 2025
+Full Stack Intern   @ DEPI              Apr 2024 – Oct 2024
 ```
 
 ---
 
 ## 📈 Currently
 
-* 🔹 Building **StoreManager** — Statistics Dashboard (Task 09) with CQRS + aggregation queries
+* 🔹 Building **StoreManager** — Statistics Dashboard with CQRS + aggregation queries
 * 🔹 Working on **Full Stack app** with Angular + ASP.NET Core @ DBS MENA
-* 🔹 Implementing **CQRS & MediatR** patterns
-* 🔹 Practicing **Clean Architecture & DDD**
+* 🔹 Deepening **CQRS, MediatR & Clean Architecture** patterns
+* 🔹 Practicing **Domain-Driven Design (DDD)**
 * 🔹 Learning **System Design concepts**
-* 💬 Ask me about: **ASP.NET Core · Web APIs · Entity Framework · Clean Architecture**
+* 💬 Ask me about: **ASP.NET Core · Angular · Web APIs · Entity Framework · Clean Architecture**
