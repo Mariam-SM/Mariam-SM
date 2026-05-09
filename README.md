@@ -136,8 +136,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🏪 [**Store Manager System**](https://github.com/Mariam-SM/StoreManager.Solution) ⚡ | Full Stack Product & store management System (.Net + Angular) with ASP.NET Core 10, EF Core, SQL Server, JWT, ASP.NET Identity, CQRS, MediatR, FluentValidation, AutoMapper, Angular21 , TypeScript,
+Tailwind CSS, Clean Architecture|
 | 🐾 [**PetCore**](https://github.com/Mariam-SM/PetCore) ⚡ | Full pet care ecosystem — vet directory, appointment booking, product marketplace, chatbot | ASP.NET Core, Clean Arch, EF Core, JWT, Redis, CQRS |
-| 🏪 [**Store Manager System**](https://github.com/Mariam-SM/StoreManager.Solution) ⚡ | Product & store management with CQRS, JWT auth, Claims-based authorization, Audit History, Statistics Dashboard | ASP.NET Core, Clean Arch, EF Core, JWT, CQRS, MediatR, FluentValidation |
 | 📦 [**Order Management System**](https://github.com/Mariam-SM/Order_Management_System) | 25+ REST endpoints — basket, orders, invoices, Stripe payments | ASP.NET Core, EF Core, JWT, Stripe, Redis |
 | 🛒 [**E-Commerce Backend API**](https://github.com/Mariam-SM/E-Commerce) | Generic Repo & Unit of Work, Redis caching (60% faster), Specification Pattern | ASP.NET Core, EF Core, JWT, Stripe, Redis |
 | 🏢 [**Company Management System**](https://github.com/Mariam-SM/CompanyManagement) | Multi-auth (Google, Facebook), SMS recovery, 3-Tier Architecture | MVC, EF Core, OAuth, SMTP, Twilio |
@@ -147,19 +148,9 @@
 
 ---
 
-## 🗺️ Store Manager — Progress
+## 🗺️ PetCore Platform - Progress
 
-```
-Task 01 ✅  Project Setup & Clean Architecture
-Task 02 ✅  Domain Entities & Base Classes
-Task 03 ✅  EF Core & Database Configuration
-Task 04 ✅  Product Management (CRUD + Pagination)
-Task 05 ✅  Soft Delete & Audit History
-Task 06 ✅  Roles, Claims & User Seeding
-Task 07 ✅  JWT Login & Authorization Header
-Task 08 ✅  Claims-Based Authorization & Policies
-Task 09 🔄  Statistics Dashboard (In Progress)
-```
+
 
 ---
 
