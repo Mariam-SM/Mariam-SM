@@ -64,7 +64,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mssql,redis,mysql" />
+  <img src="https://skillicons.dev/icons?i=redis,mysql" />
 </p>
 
 ---
