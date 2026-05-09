@@ -63,7 +63,7 @@
 ### 🔹 Databases & Caching
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlserver,redis,mysql" />
+  <img src="https://skillicons.dev/icons?i=mssql,redis,mysql" />
 </p>
 
 ---
