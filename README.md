@@ -183,15 +183,55 @@ Apr 2024 – Oct 2024   Full Stack Intern       @ DEPI                  (500+ hr
 
 ## 🎓 Certifications
 
-<div align="center">
-
-[![Route](https://img.shields.io/badge/Route_Academy-.NET_Developer-0078D4?style=for-the-badge)](https://drive.google.com/file/d/1KilfjaNqM4UDYIx-lJaoaviIILnfQziF/view)
-[![ITI](https://img.shields.io/badge/ITI-ASP.NET_Developer-C8102E?style=for-the-badge)](https://drive.google.com/file/d/1Q8S_1kPHwDZnPQSklUbMt6z3MV97PTgk/view)
-[![DEPI](https://img.shields.io/badge/DEPI-Full_Stack_.NET-2E7D32?style=for-the-badge)](https://drive.google.com/file/d/1ganxf8mxk_O2K6DRSDV7EjENR5_Jop0V/view)
-[![DEPI English](https://img.shields.io/badge/DEPI-Business_English-FF8F00?style=for-the-badge)](https://drive.google.com/file/d/1D5TNgX--VX7K-RdW9I3Dt1Qaw8qLq8Hg/view)
-[![Elevvo](https://img.shields.io/badge/Elevvo-Front--End_Intern-7C3AED?style=for-the-badge)](https://drive.google.com/file/d/1LQv3ejIpbBXvtpFtf8T---zll02PgKSd/view?usp=drive_link)
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1KilfjaNqM4UDYIx-lJaoaviIILnfQziF/view" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="Route Academy"/>
+        <br/><br/>
+        <b>Route Academy</b>
+        <br/>
+        <sub>.NET Developer</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1Q8S_1kPHwDZnPQSklUbMt6z3MV97PTgk/view" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="ITI"/>
+        <br/><br/>
+        <b>ITI</b>
+        <br/>
+        <sub>ASP.NET Developer</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1ganxf8mxk_O2K6DRSDV7EjENR5_Jop0V/view" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="DEPI"/>
+        <br/><br/>
+        <b>DEPI</b>
+        <br/>
+        <sub>Full Stack Developer</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1D5TNgX--VX7K-RdW9I3Dt1Qaw8qLq8Hg/view" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="Business English"/>
+        <br/><br/>
+        <b>DEPI</b>
+        <br/>
+        <sub>Business English</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1LQv3ejIpbBXvtpFtf8T---zll02PgKSd/view?usp=drive_link" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="80" height="80" alt="Elevvo"/>
+        <br/><br/>
+        <b>Elevvo</b>
+        <br/>
+        <sub>Front-End Intern</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
