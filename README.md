@@ -27,7 +27,7 @@ GPA       : 3.77 / 4.0  |  Ranked #1 in CS Department — Fayoum University
 Graduation: 200 / 200 (Full Mark)
 Focus     : Clean Architecture · CQRS · ABP Framework · REST APIs · Angular SPAs
 Training  : 1100+ hours across Route Academy, ITI, DEPI
-Now       : Building StoreManager (CQRS + dashboard) · Deepening DDD & System Design
+Now       : Learning Docker & RabbitMQ · Deepening DDD & System Design
 ```
 
 ---
@@ -146,7 +146,7 @@ Now       : Building StoreManager (CQRS + dashboard) · Deepening DDD & System D
 
 | Project | Highlights | Stack |
 |---------|-----------|-------|
-| 🏪 [**Store Manager**](https://github.com/Mariam-SM/StoreManager.Solution) `⚡ In Progress` | Full-stack · 15+ REST endpoints · Angular 21 + ASP.NET Core 10 · CQRS · Audit history · Soft delete · JWT RBAC | ASP.NET Core 10, Angular 21, CQRS, EF Core, JWT, Tailwind |
+| 🏪 [**Store Manager**](https://github.com/Mariam-SM/StoreManager.Solution) | Full-stack · 15+ REST endpoints · Angular 21 + ASP.NET Core 10 · CQRS · Audit history · Soft delete · JWT RBAC | ASP.NET Core 10, Angular 21, CQRS, EF Core, JWT, Tailwind |
 | ✅ [**TaskFlow**](https://github.com/Mariam-SM) | ABP Framework · 10+ REST endpoints · Docker Compose (3 services) · Ollama AI integration (summarization, Q&A) · EF Core + SQL Server | ABP Framework, ASP.NET Core, EF Core, Docker, Ollama |
 | 🐾 [**PetCore**](https://github.com/Mariam-SM/PetCore) `⚡ In Progress` | 7+ domain modules · Vet directory · Appointment booking · Hierarchical product marketplace · JWT Owner/Vet roles | ASP.NET Core, Clean Arch, EF Core, JWT, Redis, CQRS |
 
@@ -197,13 +197,13 @@ Apr 2024 – Oct 2024   Full Stack Intern       @ DEPI                  (500+ hr
 
 ## 📈 Currently Working On
 
-- 🔹 **StoreManager** — Statistics Dashboard with CQRS + aggregation queries
+- 🔹 Learning **Docker** — containerization, Compose, multi-service setups
+- 🔹 Learning **RabbitMQ** — message queues & async communication patterns
 - 🔹 **Full Stack app** with Angular + ASP.NET Core @ DBS MENA
-- 🔹 Deepening **CQRS, MediatR & Clean Architecture** patterns
 - 🔹 Practicing **Domain-Driven Design (DDD)**
 - 🔹 Learning **System Design** concepts
 
-💬 Ask me about: **ASP.NET Core · Angular · Clean Architecture · ABP Framework · Docker**
+💬 Ask me about: **ASP.NET Core · Angular · Clean Architecture · ABP Framework · Docker · RabbitMQ**
 
 ---
 
