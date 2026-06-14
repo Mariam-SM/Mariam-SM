@@ -23,7 +23,7 @@
 ```yaml
 Role      : Full Stack Developer (.NET + Angular) — Intern @ DBS MENA
 Location  : Cairo, Egypt
-GPA       : 3.77 / 4.0  |  Ranked #1 in CS Department — Fayoum University
+GPA       : 3.77 / 4.0  |  Ranked #1 in Bioinformatics (CS) Department — Fayoum University
 Graduation: 200 / 200 (Full Mark)
 Focus     : Clean Architecture · CQRS · ABP Framework · REST APIs · Angular SPAs
 Training  : 1100+ hours across Route Academy, ITI, DEPI
@@ -38,7 +38,7 @@ Now       : Learning Docker & RabbitMQ · Deepening DDD & System Design
 
 | | |
 |:---:|:---:|
-| 🥇 **#1 in CS Dept** · GPA 3.77/4.0 (94.6%) | 🎓 **200/200** Graduation Project |
+| 🥇 **#1 in Bioinformatics CS Dept** · GPA 3.77/4.0 (94.6%) | 🎓 **200/200** Graduation Project |
 | 🔌 **25+ REST endpoints** built @ DBS internship | 👥 **500+ concurrent users** served |
 | ⚡ **60% faster** response via Redis caching | 🗄️ **30% DB gain** via SQL optimization |
 | 👩‍🏫 **20+ students** mentored · **5 sessions** | 📚 **1100+ hours** of certified training |
