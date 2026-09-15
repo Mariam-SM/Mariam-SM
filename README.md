@@ -21,7 +21,7 @@
 ## ⚡ Snapshot
 
 ```yaml
-Role      : Full Stack Developer (.NET + Angular) — Intern @ DBS MENA
+Role      : Full Stack Developer (.NET + Angular) — Developer  @ DBS MENA
 Location  : Cairo, Egypt
 GPA       : 3.77 / 4.0  |  Ranked #1 in Bioinformatics (CS) Department — Fayoum University
 Graduation: 200 / 200 (Full Mark)
